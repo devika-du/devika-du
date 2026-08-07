@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devika-du" alt="devika-du" /></a> </p>
 
-- 🌱 I’m currently learning **MS Excel,**
+- 🌱 I’m currently learning **MS Excel**
 
 - 📫 How to reach me **devikadu2005@gmail.com**
 
